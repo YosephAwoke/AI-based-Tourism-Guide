@@ -1,0 +1,102 @@
+{
+  "Heritages": [
+    {
+      "Name": "Axum Obelisk",
+      "Local Name": "አክሱም ሃውልት",
+      "Location": "Axum, Tigray Region, Ethiopia",
+      "Year of construction": "Around the 4th century CE",
+      "Description": "It is one of several stelae in the Axum Stelae Field, a UNESCO World Heritage Site. These stelae were created by the Kingdom of Aksum, one of the great ancient civilizations of Africa, around the 4th century CE. They are believed to mark the burial sites of royalty and elite figures. The Axum Obelisk, standing over 24 meters (79 feet) tall, is ornately carved to resemble a multi-storied building, complete with false doors and windows. The obelisk was taken to Italy during Mussolini's regime in 1937 and returned to Ethiopia in 2005. It stands as a symbol of Ethiopia's rich history and cultural heritage."
+    },
+    {
+      "Name": "Bete Amanueal rock hewn church",
+      "Local Name": "ቤተ አማኑኤል",
+      "Location": "Lalibela, Amhara Region, Ethiopia",
+      "Year of construction": "12th–13th century CE",
+      "Description": "It is part of the UNESCO-listed Lalibela churches and is believed to have been constructed in the 12th–13th century during the reign of King Lalibela. The church is known for its impressive architecture, carved directly from the rock, and its religious significance to Ethiopian Orthodox Christianity. The church is a popular pilgrimage site and a testament to the skill and devotion of the craftsmen who built it."
+    },
+    {
+      "Name": "Blue Nile Falls", 
+      "Local Name": "ጢስ አባይ ፏፏቴፏፏቴ",
+      "Location": "Near Bahir Dar, Amhara Region, Ethiopia",
+      "Year of construction": "Natural formation (no specific construction date)",
+      "Description": "Also known as Tis Issat (meaning 'Waterfall of Smoke' in Amharic), it is one of Ethiopia's most famous natural landmarks. The falls are on the Blue Nile River and are most impressive during the rainy season when the water flow is at its peak, creating a dramatic mist that gives the falls their name. The Blue Nile Falls are a significant tourist attraction and an important site for local communities."
+    },
+    {
+      "Name": "Dallol",
+      "Local Name": "ዳሎልዳሎል",
+      "Location": "Danakil Depression, Afar Region, Ethiopia",
+      "Year of construction": "Natural formation (no specific construction date)",
+      "Description": "It is a unique geological area known for its colorful hot springs, salt flats, and volcanic activity. Dallol is one of the hottest places on Earth, with temperatures regularly exceeding 40°C (104°F). The area is famous for its striking landscape, featuring vivid colors from the mineral-rich hot springs and acidic pools, making it one of the most extreme and fascinating environments on the planet."
+    },
+    {
+      "Name": "Debre Dammo Monastery",
+      "Local Name": "ደበረ ዳሞ",
+      "Location": "Tigray Region, Ethiopia",
+      "Year of construction": "6th century CE",
+      "Description": "It was founded in the 6th century CE by Abuna Aregawi, one of the Nine Saints, during the Aksumite Kingdom. Accessible only by climbing a rope, it is one of Ethiopia's oldest monasteries and a center of religious learning. The monastery is renowned for its ancient Christian manuscripts, its secluded and dramatic location atop a sheer cliff, and its significant role in the development of Ethiopian Orthodox Christianity."
+    },
+    {
+      "Name": "Debre birhan silaseie church",
+      "Local Name": "ደብረ ብርሃን ስላሴ ቤተ ክርስቲያን",
+      "Location": "Gondar, Amhara Region, Ethiopia",
+      "Year of construction": "Late 17th to early 18th century CE",
+      "Description": "This Ethiopian Orthodox church, known for its stunning ceiling paintings of angelic faces, was built in the late 17th to early 18th century during the reign of Emperor Iyasu I. The church is famous for its intricate artwork, particularly the depiction of angels with human faces on the ceiling, which are considered a masterpiece of Ethiopian religious art. It remains an important pilgrimage site and a symbol of Ethiopia's rich cultural and religious heritage"
+    },
+    {
+      "Name": "Fasil ginbe",
+      "Local Name": "ፋሲል ግንብብ",
+      "Location": "Gondar, Amhara Region, Ethiopia",
+      "Year of construction": "17th century CE",
+      "Description": "IIt was constructed in the 17th century, primarily by Emperor Fasilides and his successors, as a fortress-city and royal residence. It is a UNESCO World Heritage Site known for its unique blend of Ethiopian and Baroque architecture. The Royal Enclosure includes several palaces, churches, and other buildings, all surrounded by a large wall, and is an important symbol of Ethiopia's medieval history and imperial heritage."
+    },
+    {
+      "Name": "Fasiledes bath",
+      "Local Name": "ፈሲለደስ መጠመቂያ",
+      "Location": "Gondar, Amhara Region, Ethiopia",
+      "Year of construction": "17th century CE",
+      "Description": "It was built in the 17th century during the reign of Emperor Fasilides as a ceremonial bathing site. The bath is still used for the annual Timket (Epiphany) celebrations, where thousands of people gather to reenact the baptism of Jesus. The structure is an important symbol of the city's royal history and cultural heritage."
+    },
+    {
+      "Name": "Gobatit bridge",
+      "Local Name": "ጎባቲት ድልድይድልድይ",
+      "Location": "Near Guzara Palace, Ethiopia",
+      "Year of construction": "Around 450 years ago (during the reign of Emperor Fasilides)",
+      "Description": "The history of the Gobeiti Deli Bridge in Ethiopia is notable as one of the earliest bridges constructed in the country. According to chronicles, the bridge is located near the Guzara Palace and was built around 450 years ago during the reign of Emperor Fasilides. It was part of a larger infrastructure project that included the Guzara Palace and other structures. The bridge is a testament to the engineering skills of the time and the importance of infrastructure in the region."
+    },
+    {
+      "Name": "Konso",
+      "Local Name": "ኮንሶኮንሶ",
+      "Location": "Southern Nations, Nationalities, and Peoples' Region (SNNPR), Ethiopia",
+      "Year of construction": "The terraced farming and fortified settlements date back to the 16th century (approx.)",
+      "Description": "The correct name is the Konso Cultural Landscape, located in the Southern Nations, Nationalities, and Peoples' Region (SNNPR), Ethiopia. It is known for its unique terraced farming and fortified settlements, and was designated a UNESCO World Heritage Site in 2011. The Konso people have a rich history of traditional land management and craftsmanship, which includes the construction of elaborate stone walls and the creation of intricate wooden sculptures, often used to commemorate important events or individuals."
+    },
+    {
+      "Name": "Roha Lalibela",
+      "Local Name": "ሮሃ ላሊበላ",
+      "Location": "Lalibela, Amhara Region, Ethiopia",
+      "Year of construction": "12th–13th centuries CE",
+      "Description": "Often referred to as the 'Ethiopian Jerusalem'. These 11 medieval monolithic churches were carved out of solid rock during the 12th–13th centuries under King Lalibela's reign. The churches are renowned for their remarkable architectural design and spiritual significance, making them one of Ethiopia's most important pilgrimage sites. They were designated a UNESCO World Heritage Site for their cultural and religious importance."
+    },
+    {
+      "Name": "Simien mountains national park",
+      "Local Name": "የሰሜን ተራሮች ብሔራዊ ፓርክ",
+      "Location": "Amhara Region, Ethiopia",
+      "Year of construction": "Established in the 1960s",
+      "Description": "Known as the 'Roof of Africa'. it is a UNESCO World Heritage Site, famous for its dramatic landscapes, high peaks, and diverse wildlife. The park is home to some of the highest mountains in Ethiopia, including Ras Dashen, the country's highest peak. It is also a haven for endangered species such as the Ethiopian wolf and the gelada baboon, making it a significant destination for both nature lovers and conservationists."
+    },
+    {
+      "Name": "Stele of tiya",
+      "Local Name": "ጢያ ትክል ድንጋይድንጋይ",
+      "Location": "Southern Nations, Nationalities, and Peoples' Region (SNNPR), Ethiopia",
+      "Year of construction": "12th century CE",
+      "Description": "The correct name is the Stelae of Tiya, located in the Southern Nations, Nationalities, and Peoples' Region (SNNPR), Ethiopia. It dates back to the 12th century and is a UNESCO World Heritage Site, known for its ancient upright stone pillars, which are believed to mark a burial site. The stelae are notable for their unique carvings and inscriptions, offering valuable insights into the prehistoric cultures of the region."
+    },
+    {
+      "Name": "Walled city of harar",
+      "Local Name": "የሃረር ግንብ",
+      "Location": "Harar, Eastern Ethiopia",
+      "Year of construction": "16th century CE",
+      "Description": "It dates back to the 16th century and is known for its historic walls, vibrant culture, and as a major center of Islamic learning. The city is home to over 80 mosques and more than 100 shrines, making it an important religious hub. Its distinctive architecture, bustling markets, and rich history earned it a place as a UNESCO World Heritage Site."
+    }
+  ]
+}
