@@ -1,9 +1,7 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-/FrontEnd/node_modules
-/FrontEnd/node_modules
-/FrontEnd/.pnp
+
 .pnp.js
 /node_modules
 
@@ -31,5 +29,4 @@ yarn-error.log*
 /Backend/.ipynb_checkpoints
 /Backend/.virtual_documents
 /Backend/heritages-venv
-/FrontEnd/.idea
-/FrontEnd/.vscode
+
